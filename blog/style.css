@@ -42,3 +42,23 @@ li:hover{
 height: 30px;
 text-shadow: 10px 8px 10px blue;
 }
+.img1{
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border: 1px turquoise solid;
+    
+}
+.img2{
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border: 1px turquoise solid;
+    
+}
+.img3{
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border: 1px turquoise solid;
+}
