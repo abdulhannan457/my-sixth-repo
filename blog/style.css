@@ -19,3 +19,26 @@ h2{
     text-align: center;
 
 }
+ul{
+    display: flex;
+    padding: 20px;
+    margin: 10px;
+    font-size: 22px;
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    width: 1200px;
+    border-radius: 10px;
+    
+}
+ul > li{
+    padding: 30px;
+}
+li:hover{
+    text-decoration: underline;
+    color: blue;
+    background-color: #e4f9f5;
+    border-radius: 20px;
+height: 30px;
+text-shadow: 10px 8px 10px blue;
+}
